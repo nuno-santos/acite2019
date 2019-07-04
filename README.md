@@ -20,7 +20,7 @@ Lista de aulas.
 
 * [Preparação para aulas de laboratório](labs/instrucoes.md)
 
-#### Guia 1: Vulnerabilidades Buffer Overflow
+#### Guia I: Vulnerabilidades Buffer Overflow
 
 * [Guia de Laboratório](labs/guia1/guia1.pdf)
 * Ficheiros anexos:
@@ -30,7 +30,7 @@ Lista de aulas.
   * Tarefa 4: [call_shellcode.c](labs/guia1/anexos/tarefa4/call_shellcode.c), [exploit.c](labs/guia1/anexos/tarefa4/exploit.c), [stack.c](labs/guia1/anexos/tarefa4/stack.c)
 
 
-#### Guia 2: Ataques Cross-Site Scripting
+#### Guia II: Ataques Cross-Site Scripting
 
 * [Guia de Laboratório](labs/guia2/guia2.pdf)
 * Ficheiros anexos:
@@ -38,7 +38,7 @@ Lista de aulas.
   * Tarefa 2: [xssfriend.js](labs/guia2/anexos/tarefa2/xssfriend.js), [xssprofile.js](labs/guia2/anexos/tarefa2/xssprofile.js)
 
 
-#### Guia 3: Ataques SQL Injection
+#### Guia III: Ataques SQL Injection
 
 * [Guia de Laboratório](labs/guia3/guia3.pdf)
 
