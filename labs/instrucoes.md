@@ -20,12 +20,12 @@ As aulas de laboratório terão por base o mesmo ambiente de trabalho que será 
 
 3. Deve agora descarregar e importar a imagem da máquina virtual VMSeeds para a estação de trabalho local, e seguir as instruções neste [documento](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf). Deve, no entanto, ter atenção aos seguintes aspectos do guia que devem ser alterados:
 
- a. Step 2:
+ * Step 2:
 	- Modificar para "Ubuntu 32 bit"
 	- Modificar a memória da VM para 512MB
 	- Usar "existing virtual hard disk file (attach)"
 
- b. Step 5:
+ * Step 5:
 	- Configurar clipboard e dragndrop
 
 4. Algumas dicas adicionais:
