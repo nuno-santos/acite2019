@@ -16,11 +16,15 @@ Segurança de Software
 
 ### Aulas de Laboratório
 
-#### Ambiente de Trabalho
+###### Preparação
+
+* [Preparação para aulas de laboratório](labs/instrucoes.md)
 
 ###### Guia 1: Vulnerabilidades Buffer Overflow
 
 * [Guia de Laboratório](labs/guia1/guia1.pdf)
+* Ficheiros anexos:
+  * Tarefa 1: (hello.c)[labs/guia1/anexos/tarefa1/hello.c]
 
 
 ###### Guia 2: Ataques Cross-Site Scripting
