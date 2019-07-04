@@ -1,5 +1,3 @@
-Segurança de Software
-
 ### Geral
 
 #### Objectivos
