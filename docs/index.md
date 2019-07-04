@@ -21,7 +21,7 @@ Segurança de Software
 
 ###### Guia 1: Vulnerabilidades Buffer Overflow
 
-* [Guia de Laboratório](../labs/guia1/guia1.pdf)
+* [Guia de Laboratório](permalink: /labs/guia1/guia1.pdf)
 
 
 ###### Guia 2: Ataques Cross-Site Scripting 
