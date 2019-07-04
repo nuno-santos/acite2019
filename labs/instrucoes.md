@@ -1,41 +1,39 @@
-### Preparação dos Laboratórios
+## Preparação dos Laboratórios
 
 
 
-## Inscrições
+### Inscrições
 
-Os alunos devem inscrever-se no módulo de SS, práticas, efectuando os dois passos seguintes:
+Os alunos devem inscrever-se nas aulas de laboratório do módulo de Segurança de Software efectuando os dois passos seguintes:
 
-1. Aceder a este documento e adicionar o seu nome e email.
-2. Formar um grupo, e registar o seu grupo neste documento.
-
-
-## Preparação do Ambiente de Trabalho
-
-passos para instalar e configurar o ambiente
-
-1. Download do site
-https://www.virtualbox.org/wiki/Downloads
-
-2. Instalar na estação de trabalho
-
-3. Importar a VMSeeds
-Seguir este guia:
-
-http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf
-
-Step2:
-- modificar para Ubuntu 32 bit
-- Memoria para 512MB
-- Usar existing virtual hard disk file (attach)
-
-Step5:
-- Configurar clipboard e dragndrop
-
-Terminal
-Edit -> Profile Preferences (mudar o tamanho de letra)
+1. Adicionar o seu nome e email neste documento, escolhendo um número de aluno que esteja livre.
+2. Formar um grupo e registar o seu grupo neste documento, escolhendo um número de grupo que esteja livre.
 
 
-Obter conteudios para as aulas:
+### Preparação do Ambiente de Trabalho
 
-https://github.com/nuno-santos/acite2019.git
+As aulas de laboratório terão por base o mesmo ambiente de trabalho que será necessário configurar devidamente para que seja possível realizar todos os exercícios. Para instalar este ambiente de trabalho, deve seguir as instruções seguintes:
+
+1. Descarregar o software VirtualBox do seu respectivo [website](https://www.virtualbox.org/wiki/Downloads).
+
+2. Instalar VirtualBox na sua estação de trabalho.
+
+3. Deve agora descarregar e importar a imagem da máquina virtual VMSeeds para a estação de trabalho local, e seguir as instruções neste [documento](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf). Deve, no entanto, ter atenção aos seguintes aspectos do guia que devem ser alterados:
+
+ a. Step 2:
+	- Modificar para "Ubuntu 32 bit"
+	- Modificar a memória da VM para 512MB
+	- Usar "existing virtual hard disk file (attach)"
+
+ b. Step 5:
+	- Configurar clipboard e dragndrop
+
+4. Algumas dicas adicionais:
+
+ * Quando abrir um Terminal, pode reduzir o tamanho da letra acedendo ao menu: Edit -> Profile Preferences (mudar o tamanho de letra).
+
+
+### Sugestões Adicionais
+
+Assim que tiver importado a imagem da máquina virtual para a sua estação de trabalho, é recomendado que crie um novo clone onde irá resolver os exercícios de cada guia. Ao manter uma versão original, se fizer alterações no clone que depois pretenda reverter, poderá sempre criar um novo clone da versão original e descartar a máquina virtual com as alterações que pretende anular.
+
