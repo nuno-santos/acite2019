@@ -1,18 +1,14 @@
 ## Preparação dos Laboratórios
 
 
+### Inscrições dos Grupos
 
-### Inscrições
-
-Os alunos devem inscrever-se nas aulas de laboratório do módulo de Segurança de Software efectuando os dois passos seguintes:
-
-1. Adicionar o seu nome e email neste documento, escolhendo um número de aluno que esteja livre.
-2. Formar um grupo e registar o seu grupo neste documento, escolhendo um número de grupo que esteja livre.
+Os alunos devem inscrever-se nas aulas de laboratório do módulo de Segurança de Software registando o seu grupo neste [documento](https://forms.gle/KdGdMyXGQzL27MxN6).
 
 
 ### Preparação do Ambiente de Trabalho
 
-As aulas de laboratório terão por base o mesmo ambiente de trabalho que será necessário configurar devidamente para que seja possível realizar todos os exercícios. Para instalar este ambiente de trabalho, deve seguir as instruções seguintes:
+As aulas de laboratório terão por base o mesmo ambiente de trabalho que será necessário configurar devidamente para que seja possível realizar todos os exercícios. Iremos ter por base os materiais produzidos pela [SEEDLabs](https://seedsecuritylabs.org/). Para instalar este ambiente de trabalho, deve seguir as instruções seguintes:
 
 1. Descarregar o software VirtualBox do seu respectivo [website](https://www.virtualbox.org/wiki/Downloads).
 
@@ -22,7 +18,7 @@ As aulas de laboratório terão por base o mesmo ambiente de trabalho que será 
 
  * Step 2:
 	- Modificar para "Ubuntu 32 bit"
-	- Modificar a memória da VM para 512MB
+	- Modificar a memória da VM para 2048MB
 	- Usar "existing virtual hard disk file (attach)"
 
  * Step 5:
