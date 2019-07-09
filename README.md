@@ -7,13 +7,13 @@ Contacto: nuno.m.santos@tecnico.ulisboa.pt
 
 * [Programa](programa.pdf)
 
-
+* [Grupos](grupos.pdf)
 
 ## Conteúdos
 
-* [Aulas de laboratório](labs.md)
-
 * [Aulas teóricas](teoricas.md)
+
+* [Aulas de laboratório](labs.md)
 
 * [Seminários](seminarios.md)
 
