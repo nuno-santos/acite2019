@@ -21,3 +21,15 @@
 * Mecanismos de segurança nos sistemas operativos.
 * Mecanismos de segurança nas linguagens de programação.
 
+
+### Aula 3
+
+**Tema:** Buffer Overflows [[pdf](teoricas/acite2019-03-buffer_overflows.pdf)]
+
+**Data:** 10 Julho 2019
+
+**Objectivos:**
+* Natureza de um buffer overflow.
+* Overflows da pilha e da heap.
+* Integer overflows.
+
