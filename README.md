@@ -1,8 +1,9 @@
 ## Geral
 
-*Módulo de Segurança de Software*
 
-Professor Responsável: Nuno Santos (nuno.m.santos@tecnico.ulisboa.pt)
+Professor Responsável: Nuno Santos
+
+Contacto: nuno.m.santos@tecnico.ulisboa.pt
 
 * [Programa](programa.pdf)
 
