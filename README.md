@@ -1,7 +1,6 @@
 ## Geral
 
-
-Professor Responsável: Nuno Santos
+Responsável: Nuno Santos
 
 Contacto: nuno.m.santos@tecnico.ulisboa.pt
 
