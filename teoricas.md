@@ -1,6 +1,8 @@
-### Aula 1: 8 Julho 2019
+### Aula 1
 
-**Tema:** Introdução e Conceitos de Segurança de Software [pdf](teoricas/acite2019-introducao.pdf)
+**Tema:** Introdução e Conceitos de Segurança de Software [[pdf](teoricas/acite2019-introducao.pdf)]
+
+** Data: 8 Julho 2019
 
 **Objectivos:**
 * Contexto e organização da disciplina de segurança de software
