@@ -33,3 +33,14 @@
 * Overflows da pilha e da heap.
 * Integer overflows.
 
+
+### Aula 4
+
+**Tema:** Corridas e Validação de Entradas [[pdf](teoricas/acite2019-04-corridas_entradas.pdf)]
+
+**Data:** 11 Julho 2019
+
+**Objectivos:**
+* Vulnerabilidades devido a corridas
+* Vulnerabilidades devido a validação de entradas
+
