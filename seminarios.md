@@ -21,3 +21,14 @@
 * Introdução ao cibercrime
 * Instrumentos e recursos avançados do cibercrime: deep web, anonimato online, e botnets
 
+### Seminário 3
+
+**Tema:** Criptomoeda e Blockchain [[pdf](seminarios/acite2019-3-criptomoeda.pdf)]
+
+**Data:** 14 Julho 2019
+
+**Objectivos:**
+* Introdução à criptomoeda e Bitcoin
+* O papel da blockchain
+* Investigação de transações Bitcoin
+
