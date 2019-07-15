@@ -25,7 +25,7 @@
 
 **Tema:** Criptomoeda e Blockchain [[pdf](seminarios/acite2019-3-criptomoeda.pdf)]
 
-**Data:** 14 Julho 2019
+**Data:** 15 Julho 2019
 
 **Objectivos:**
 * Introdução à criptomoeda e Bitcoin
