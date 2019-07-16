@@ -32,3 +32,14 @@
 * O papel da blockchain
 * Investigação de transações Bitcoin
 
+### Seminário 4
+
+**Tema:** Cloud Security [[pdf](seminarios/acite2019-4-cloud.pdf)]
+
+**Data:** 17 Julho 2019
+
+**Objectivos:**
+* Breve anatomia da cloud
+* Principais riscos com a cloud
+* Protecção de dados na cloud
+
