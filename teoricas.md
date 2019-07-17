@@ -60,7 +60,7 @@
 
 **Tema:** Auditoria e Teste de Software [[pdf](teoricas/acite2019-06-auditoria_teste.pdf)]
 
-**Data:** 16 Julho 2019
+**Data:** 17 Julho 2019
 
 **Objectivos:**
 * Modelação de ameaças
