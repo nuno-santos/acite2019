@@ -43,3 +43,15 @@
 * Principais riscos com a cloud
 * Protecção de dados na cloud
 
+### Seminário 6
+
+**Tema:** Segurança na IoT [[pdf-1](seminarios/acite2019-5-iot-1.pdf)]
+[[pdf-2](seminarios/acite2019-5-iot-2.pdf)]
+
+**Data:** 19 Julho 2019
+
+**Objectivos:**
+* Riscos e desafios de segurança em IoT
+* Segurança na plataforma SmartThings
+
+
